@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 THE ALGORITHM GURU 🚀
-### Renher L. Demerin | Computer Engineering Virtuoso
+### Renher L. Demerin | Developer/Programmer
 
 
 <div align="center">

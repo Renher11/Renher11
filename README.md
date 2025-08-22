@@ -76,8 +76,7 @@
 ║  -------------------------------- ║
 ║  🥇 C++ Programming Champion     ║
 ║  🥈 Regional Competition Medalist ║
-║  🎯 CTF Security Specialist      ║
-║  🤖 Robotics Competition Winner  ║
+║  🎯 CTF Competition Participant  ║
 ╚══════════════════════════════════╝
 ```
 
@@ -220,7 +219,7 @@
 
 ---
 
-### 🚀 **TIER 1: ENTERPRISE-GRADE SYSTEMS**
+### 🚀 **TIER 1: SYSTEMS**
 
 <details>
 <summary><b>🏢 Engineering Inventory Management System</b> | <code>Development</code></summary>
@@ -303,7 +302,7 @@
 ### � **TIER 2: PROFESSIONAL TRAINING PROJECTS**
 
 <details>
-<summary><b>🧪 CHEDRO12 System Testing & Documentation</b> | <code>QA Excellence</code></summary>
+<summary><b>🧪 CHEDRO12 System withTesting & Documentation</b> | <code>Full-stack</code></summary>
 
 <br/>
 
@@ -321,7 +320,7 @@
 - 🐛 **Bug Detection & Resolution Documentation**
 - 🎯 **Performance Optimization Recommendations**
 
-**🏆 Achievement Unlocked:** *QA Documentation Master*
+**🏆 Achievement Unlocked:** *Full-stack developer*
 
 </details>
 
@@ -347,7 +346,7 @@
 │    └─ RESTful APIs             │
 │ 🛡️ Cybersecurity Mastery      │
 │    └─ Ethical Hacking (Basic)  │
-│    └─ Penetration Testing      │
+│    └─ Penetration Testing (Basic)│
 │ 🏗️ System Architecture        │
 │    └─ Microservices Design     │
 │    └─ Scalable Applications    │
@@ -403,9 +402,8 @@
 - [ ] 💼 **Secure Software Developer Position**
 - [ ] 🚀 **Deploy 3 Full-Stack Projects**
 - [ ] 🌟 **Contribute to 5 Open Source Projects**
-- [ ] 🏆 **Win More Programming Competitions**
-- [ ] 📱 **Launch Mobile Applications**
-- [ ] 📝 **Start Technical Blog**
+- [ ] 📱 **Launch Mobile/Web/Desktop Applications**
+- [ ] 📝 **Start Technical Blog?**
 
 </td>
 </tr>
@@ -463,9 +461,7 @@ Java                   ██████░░░░░░░░░░░░░
 ║    8th ICpEP.SE Convention 2024  ║
 ║ 🥈 C++ Programming Runner-up     ║
 ║    9th ICpEP.SE Convention 2025  ║
-║ 🥈 Robotics Champion             ║
-║    FestBot 2023 (Sumobot)        ║
-║ 🎯 CTF Security Specialist       ║
+║ 🎯 CTF Security Participant      ║
 ║    HackForGov 2024 (9th Place)   ║
 ║ 📊 National Competitor           ║
 ║    CPE Challenge 2024            ║

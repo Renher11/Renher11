@@ -3,7 +3,6 @@
 # 🚀 THE ALGORITHM GURU 🚀
 ### Renher L. Demerin | Computer Engineering Virtuoso
 
-<img src---
 
 <div align="center">
 

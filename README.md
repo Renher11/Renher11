@@ -223,26 +223,26 @@
 ### 🚀 **TIER 1: ENTERPRISE-GRADE SYSTEMS**
 
 <details>
-<summary><b>🏢 Engineering Inventory Management System</b> | <code>Production Ready</code></summary>
+<summary><b>🏢 Engineering Inventory Management System</b> | <code>Development</code></summary>
 
 <br/>
 
 ```yaml
 🎯 Mission: Revolutionary inventory tracking for Engineering Department
 👨‍💻 Role: Lead Full-Stack Architect
-🛠️ Arsenal: Java • MySQL • Advanced Algorithms
+🛠️ Arsenal: PHP • MySQL • Advanced Algorithms
 ⚡ Impact: 95% reduction in manual tracking errors
 🔗 Repository: https://github.com/Renher11/engineering-inventory-system
 ```
 
 **🔥 Core Features:**
-- 🔐 **Military-grade Admin Authentication**
-- 📊 **Real-time Product Tracking Matrix**
+- 🔐 **Advance-grade Admin Authentication**
+- 📊 **Product Tracking Matrix**
 - 📈 **Intelligent Borrowing/Return Analytics**
 - 🎯 **Automated Stock Monitoring Algorithms**
 - 📱 **Responsive Dashboard Interface**
 
-**🏆 Achievement Unlocked:** *System Optimization Master*
+**🏆 Achievement Unlocked:** *System Optimization*
 
 ---
 
@@ -255,7 +255,7 @@
 
 ```yaml
 🎯 Mission: Hardware-software fusion for DSP education
-👨‍💻 Role: Embedded Systems Virtuoso  
+👨‍💻 Role: Embedded Systems  
 🛠️ Arsenal: Raspberry Pi • Python • GPIO • HDMI
 ⚡ Impact: Revolutionary teaching tool for 3rd year students
 🔗 Repository: https://github.com/Renher11/dsp-trainer
@@ -309,7 +309,7 @@
 
 ```yaml
 🎯 Mission: Legacy system optimization and documentation
-👨‍💻 Role: Quality Assurance Specialist & Technical Writer
+👨‍💻 Role: Full-Stack Developer
 🛠️ Arsenal: CodeIgniter 3 • MVC Architecture • Testing Protocols
 ⚡ Impact: Comprehensive system documentation and user manual
 📅 Duration: June-October 2024 | SKSU Computer Laboratory
@@ -345,10 +345,10 @@
 │ 🔥 Advanced Java Programming   │
 │    └─ Spring Framework         │
 │    └─ RESTful APIs             │
-│ 🛡️ Cybersecurity Mastery       │
-│    └─ Ethical Hacking          │
+│ 🛡️ Cybersecurity Mastery      │
+│    └─ Ethical Hacking (Basic)  │
 │    └─ Penetration Testing      │
-│ 🏗️ System Architecture         │
+│ 🏗️ System Architecture        │
 │    └─ Microservices Design     │
 │    └─ Scalable Applications    │
 ╰─────────────────────────────────╯
@@ -427,13 +427,13 @@ Windows                  ██████████████████�
 Linux                    █░░░░░░░░░░░░░░░░░░░░    5.0% 
 
 🔥 Editors: 
-IntelliJ IDEA           ███████████████░░░░░░   75.0% 
-VS Code                 ██████░░░░░░░░░░░░░░░░   25.0% 
+VS Code          ███████████████░░░░░░   75.0% 
+IntelliJ IDEA    ██████░░░░░░░░░░░░░░░░   25.0% 
 
 💬 Programming Languages: 
-Java                    ████████████████░░░░░   80.0% 
-Python                  ████░░░░░░░░░░░░░░░░░░   15.0% 
-C++                     █░░░░░░░░░░░░░░░░░░░░░    5.0% 
+C++                    ████████████████░░░░░   80.0% 
+Python                 ████░░░░░░░░░░░░░░░░░░   15.0% 
+Java                   ██████░░░░░░░░░░░░░░░░    30.0% 
 ```
 <!--END_SECTION:waka-->
 
@@ -509,7 +509,7 @@ C++                     █░░░░░░░░░░░░░░░░░�
 |------|-------|------------|--------|
 | 2023 | 8th ICpEP.SE Regional Convention | Emerging Technologies & AI | ✅ Completed |
 | 2024 | 9th ICpEP.SE Regional Convention | Ethical AI & Technopreneurship | ✅ Completed |
-| 2025 | Advanced Java Training | Enterprise Development | ✅ Certified |
+| 2025 | Advanced Java Training | Enterprise Development | ✅ Certified (Ground Gurus) |
 | 2025 | Spring Boot Mastery | Microservices Architecture | 🔄 In Progress |
 
 </div>
@@ -719,7 +719,7 @@ and every bug is a puzzle waiting to reveal its secrets."*
 <br>
 
 **⚡ From [Renher L. Demerin](https://github.com/Renher11) ⚡**  
-***Computer Engineering Graduate • Full-Stack Architect • Algorithm Virtuoso***
+***Computer Engineering Graduate • Full-Stack Developer Aspirant • Algorithm Virtuoso***
 
 <br>
 

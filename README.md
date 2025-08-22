@@ -34,7 +34,7 @@
 
 </div>
 
-> **Note**: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username once you create your GitHub account.le-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Code%20•%20Compete%20•%20Conquer&fontSize=50&fontAlignY=35&desc=Transforming%20Ideas%20into%20Digital%20Reality&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+> **Note**: Replace `Renher11` with your actual GitHub username once you create your GitHub account.le-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Code%20•%20Compete%20•%20Conquer&fontSize=50&fontAlignY=35&desc=Transforming%20Ideas%20into%20Digital%20Reality&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=🏆+C%2B%2B+Programming+Champion;💻+Full-Stack+Architect;🔐+Cybersecurity+Specialist;🤖+Hardware+Integration+Expert;⚡+Algorithm+Optimization+Guru;🎯+Problem+Solving+Machine" alt="Dynamic Typing" />
 
